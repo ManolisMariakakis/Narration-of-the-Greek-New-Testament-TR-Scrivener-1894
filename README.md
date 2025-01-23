@@ -37,7 +37,7 @@ Narration of the Greek New Testament (TR Scrivener 1894): <a href="https://ebibl
    - Displays MP3 chapters categorized by book.
      
 2. **Player Controls**:
-   - Play, Stop buttons
+   - Play, Stop buttons.
    - Displays the current playing track.
 
 3. **Search and Filter**:
@@ -49,7 +49,7 @@ Narration of the Greek New Testament (TR Scrivener 1894): <a href="https://ebibl
      
 5. **Share chapter links**:
    - Click on the 🔗 icon next to a chapter in the listing to load a shareable link for the chapter.
-Links follow the format: `https://ebible.gr/traudio?mp3=bbb-cc.mp3` where bbb is the short book name and cc is the chapter number (e.g., https://ebible.gr/traudio?mp3=mat-1.mp3).
+   - Links follow the format: `https://ebible.gr/traudio?mp3=bbb-cc.mp3` where bbb is the short book name and cc is the chapter number (e.g., https://ebible.gr/traudio?mp3=mat-1.mp3).
 
 6. **Responsive Design**:
    - Works seamlessly across desktop, tablet, and mobile devices.
