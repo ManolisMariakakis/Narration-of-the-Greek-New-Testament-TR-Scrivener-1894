@@ -14,11 +14,19 @@ This repository also contains the audio MP3 files, copied from the source, and l
 - The first three characters of each file name represent the book name.
 - The number following the book name indicates the chapter number.
 
-These files are freely available for download and streaming.
+**These files are freely available for download and streaming.**
+
+## Textus Receptus (Scrivener 1894)
+
+Scrivener's Textus Receptus is, in essence, an edited version of Beza's Textus Receptus, adjusted to align with the readings adopted by the Authorized King James Version. This edition should not be confused with Scrivener's printings of Stephanus' Textus Receptus.
+
+Textus Receptus (Latin for "received text") refers to a series of significant Byzantine Greek manuscripts and printed texts of the New Testament, produced between 1500 and 1900. These include Erasmus' *Novum Instrumentum omne* (1516), Stephanus' editions (1550), Beza's edition (1598), the Elzevir house editions (1633), and Scrivener's edition (1894).
+
+**The text is freely available.**
 
 ## Web-Based Player
 
-A player has been developed for the site `https://ebible.gr` utilizing the resources located in the `mp3` folder. The player offers a responsive web interface for listening to Bible chapters in MP3 format.
+A player has been developed for the site `https://ebible.gr` utilizing the resources located in the `mp3` folder. The player offers a responsive web interface for listening to Bible chapters in MP3 format while concurrently reading the text.
 
 ### Player link
 
@@ -34,12 +42,16 @@ Narration of the Greek New Testament (TR Scrivener 1894): <a href="https://ebibl
 
 3. **Search and Filter**:
    - Filter by book or search by chapter name.
-  
-4. **Share chapter links**:
+
+4. **Reading text in Polytonic Greek**:  
+   - The reading text is sourced from <a href="https://www.bible.com/bible/183/MAT.1.TR1894" target="_blank">Bible.com</a> and is presented in polytonic Greek.
+   - Users can listen to Bible chapters in MP3 format while concurrently reading the corresponding text in polytonic Greek.
+     
+5. **Share chapter links**:
    - Click on the 🔗 icon next to a chapter in the listing to load a shareable link for the chapter.
 Links follow the format: `https://ebible.gr/traudio?mp3=bbb-cc.mp3` where bbb is the short book name and cc is the chapter number (e.g., https://ebible.gr/traudio?mp3=mat-1.mp3).
 
-5. **Responsive Design**:
+6. **Responsive Design**:
    - Works seamlessly across desktop, tablet, and mobile devices.
   
      
