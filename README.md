@@ -4,7 +4,7 @@
 
 This repository provides an excellent narration of the Greek New Testament, Textus Receptus (Scrivener 1894).
 
-Special thanks to **Matthias Muller** for making this resource available through the source [Koine Greek - New Testament](https://onedrive.live.com/?authkey=%21AFu5Iuyd09hBUMo&id=1B0EF14536A447FD%213067&cid=1B0EF14536A447FD) and to **Theo Karvounakis** for reading the Koine Greek with a modern Greek pronunciation!
+Special thanks to **Matthias Muller** for making this resource available through the source [Koine Greek - New Testament 160Kbps](https://www.dropbox.com/scl/fo/8otyd8t31blrz767siyah/AEzVIjYgZ3gqXW5XyNY2pKI?rlkey=oyhm1bgrzma401w5he461j5tm&e=1) and to **Theo Karvounakis** for reading the Koine Greek with a modern Greek pronunciation!
 
 ## Audio Preservation
 
