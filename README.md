@@ -42,7 +42,7 @@ Narration of the Greek New Testament (TR Scrivener 1894): <a href="https://ebibl
    - Filter by book or search by chapter name.
 
 4. **Reading text in Polytonic Greek**:  
-   - The reading text is sourced from <a href="https://www.bible.com/bible/183/MAT.1.TR1894" target="_blank">Bible.com</a> and is presented in polytonic Greek. The text is included in this repositoery as the file `tr1894.txt`.
+   - The reading text is sourced from <a href="https://www.bible.com/bible/183/MAT.1.TR1894" target="_blank">Bible.com</a> and is presented in polytonic Greek. The text is included in this repository as the file `tr1894.txt`.
    - Users can listen to Bible chapters in MP3 format while concurrently reading the corresponding text in polytonic Greek.
      
 5. **Share chapter links**:
