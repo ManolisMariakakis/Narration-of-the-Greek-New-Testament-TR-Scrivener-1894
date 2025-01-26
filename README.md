@@ -22,8 +22,6 @@ Scrivener's Textus Receptus is, in essence, an edited version of Beza's Textus R
 
 Textus Receptus (Latin for "received text") refers to a series of significant Byzantine Greek manuscripts and printed texts of the New Testament, produced between 1500 and 1900. These include Erasmus' *Novum Instrumentum omne* (1516), Stephanus' editions (1550), Beza's edition (1598), the Elzevir house editions (1633), and Scrivener's edition (1894).
 
-**The text is freely available.**
-
 ## Web-Based Player
 
 A player has been developed for the site `https://ebible.gr` utilizing the resources located in the `mp3` folder. The player offers a responsive web interface for listening to Bible chapters in MP3 format while concurrently reading the text.
@@ -44,7 +42,7 @@ Narration of the Greek New Testament (TR Scrivener 1894): <a href="https://ebibl
    - Filter by book or search by chapter name.
 
 4. **Reading text in Polytonic Greek**:  
-   - The reading text is sourced from <a href="https://www.bible.com/bible/183/MAT.1.TR1894" target="_blank">Bible.com</a> and is presented in polytonic Greek.
+   - The reading text is sourced from <a href="https://www.bible.com/bible/183/MAT.1.TR1894" target="_blank">Bible.com</a> and is presented in polytonic Greek. The text is included in this repositoery as the file `tr1894.txt`.
    - Users can listen to Bible chapters in MP3 format while concurrently reading the corresponding text in polytonic Greek.
      
 5. **Share chapter links**:
